@@ -22,4 +22,4 @@ let dataSetVersion = '';
  */
 // const imageRoot = 'https://i.imgur.com/';
 //const imageRoot = 'guksels.github.io/AzurLaneSorter/src/assets/ShipImages/';
-const imageRoot = '/src/assets/ShipImages/';
+const imageRoot = '/AzurLaneSorter/src/assets/ShipImages/';
