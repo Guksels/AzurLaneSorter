@@ -19,12 +19,16 @@ dataSet[dataSetVersion].options = [
       { name: "Sardegna Empire", key: "SE" },
       { name: "Other", key: "O" },
       { name: "Collaboration", key: "CLB" },
+      { name: "TEST", key: "TEST" },
       { name: "Priority ships", key: "PR" }
     ]
   }
 ];
 
 dataSet[dataSetVersion].characterData = [
+{name: "22", img: "22.png", opts:{groups: ["TEST"]}},
+{name: "33", img: "33.png", opts:{groups: ["TEST"]}},
+
 {name: "22", img: "0N5u9VH.png", opts:{groups: ["CLB"]}},
 {name: "33", img: "fh1JCa0.png", opts:{groups: ["CLB"]}},
 {name: "Abercrombie", img: "vJshTxz.png", opts:{groups: ["RN"]}},
