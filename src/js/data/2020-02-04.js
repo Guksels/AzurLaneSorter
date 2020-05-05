@@ -28,9 +28,9 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
 {name: "22", img: "22.png", opts:{groups: ["TEST","TEST2"]}},
-{name: "33", img: "33.png", opts:{groups: ["TEST"]}},
-{name: "Abercrombie", img: "Abercrombie.png", opts:{groups: ["TEST"]}},
-{name: "Abukuma", img: "Abukuma.png", opts:{groups: ["TEST"]}},
+{name: "33", img: "33.png", opts:{groups: ["TEST","TEST2"]}},
+{name: "Abercrombie", img: "Abercrombie.png", opts:{groups: ["TEST","TEST2"]}},
+{name: "Abukuma", img: "Abukuma.png", opts:{groups: ["TEST","TEST2"]}},
 {name: "Acasta", img: "Acasta.png", opts:{groups: ["TEST"]}},
 {name: "Achilles", img: "Achilles.png", opts:{groups: ["TEST"]}},
 {name: "Admiral Graf Spee", img: "Admiral_Graf_Spee.png", opts:{groups: ["TEST"]}},
